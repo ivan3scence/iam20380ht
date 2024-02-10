@@ -1,0 +1,16 @@
+*.mod
+.ccls-cache
+docs/html/*
+docs/latex/*
+docs/man/*
+.vscode*
+.*.cmd
+.cproject
+.project
+.tmp_versions/
+Module.symvers
+*.o
+*.o.d
+*.ko
+*.mod.c
+modules.order
